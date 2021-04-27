@@ -2,7 +2,7 @@
 
 # Hello World!  
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![hippo](https://tenor.com/view/programmer-programming-computer-typing-gif-7603564)
 
 My name is Adnan and I am a, 
 
