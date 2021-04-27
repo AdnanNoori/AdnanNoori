@@ -1,15 +1,20 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${AdnanNoori}.${AdnanNoori})
 
 # Hello World!
-
-![Monkey Laptop](./1FA.gif)
+<img align="right" src="./1FA.gif" width="400" >
 
 My name is Adnan and I am a,
 
-- Current Software Engineer
-- Former Mechanical Engineer
+- 💻 Current Software Engineer
+- 🧰 Former Mechanical Engineer
 
 I love nerding out, collaborating, and creating new projects!
+
+In my free time, if I am not coding, I enjoy
+
+- ⚽ Playing Soccer
+- 🎥 Watching Movies
+- 🚗 Working on my car 
 
 ### Tech Stack
 
