@@ -2,7 +2,7 @@
 
 # Hello World!  
 
-![](https://giphy.com/embed/LmNwrBhejkK9EFP504)
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 My name is Adnan and I am a, 
 
@@ -22,6 +22,6 @@ I love nerding out, collaborating, and creating new projects!
 ![](https://camo.githubusercontent.com/cbfc67a6689733468e478406eebfbe2445c3d5e32325fdaa1168f60f480e3322/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f636972636c6563692f636972636c6563692d617232312e737667)
 ![](https://camo.githubusercontent.com/4dec2e708980ea770ab6068f903fc5971f12acc21c77307b6db3a47d92c5e1a8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e706d6a732f6e706d6a732d617232312e737667)
 
-# [Connect with me on LinkedIn](https://www.linkedin.com/in/adnan-noori-1b2b57148)
+### Connect with me on [LinkedIn](https://www.linkedin.com/in/adnan-noori-1b2b57148)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
