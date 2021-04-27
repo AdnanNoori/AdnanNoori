@@ -1,17 +1,17 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${AdnanNoori}.${AdnanNoori})
 
-# Hello World!  
+# Hello World!
 
-![Monkey Laptop](https://giphy.com/embed/yPRo73ILrGjny)
+![Monkey Laptop](./1FA.gif)
 
-My name is Adnan and I am a, 
+My name is Adnan and I am a,
 
 - Current Software Engineer
 - Former Mechanical Engineer
 
 I love nerding out, collaborating, and creating new projects!
 
-### Tech Stack 
+### Tech Stack
 
 ![](https://camo.githubusercontent.com/8292a3950122da8e47d34e5402cc31853cad0e8bc4095a0ff5b34ddaf8e44dfd/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176617363726970742f6a6176617363726970742d617232312e737667)
 ![](https://camo.githubusercontent.com/19ab6bd09ac44d51db909362f5b77c47ab5679fda118a0bb5bfccf72cfc2a0d1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d617232312e737667)
