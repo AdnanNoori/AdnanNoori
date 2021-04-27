@@ -1,6 +1,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${AdnanNoori}.${AdnanNoori})
 
-# Hello World!  ![](https://giphy.com/embed/LmNwrBhejkK9EFP504)
+# Hello World!  
+
+![](https://giphy.com/embed/LmNwrBhejkK9EFP504)
 
 My name is Adnan and I am a, 
 
