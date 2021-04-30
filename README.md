@@ -29,4 +29,4 @@ In my free time, if I am not coding, I enjoy
 
 ### Connect with me on [LinkedIn](https://www.linkedin.com/in/adnan-noori-1b2b57148)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdnanNoori&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
