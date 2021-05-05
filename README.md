@@ -10,12 +10,6 @@ My name is Adnan and I am a,
 
 I love nerding out, collaborating, and creating new projects!
 
-In my free time, if I am not coding, I enjoy
-
-- ⚽ Playing Soccer
-- 🎥 Watching Movies
-- 🚗 Working on my car 
-
 ### Tech Stack
 
 ![](https://camo.githubusercontent.com/8292a3950122da8e47d34e5402cc31853cad0e8bc4095a0ff5b34ddaf8e44dfd/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176617363726970742f6a6176617363726970742d617232312e737667)
